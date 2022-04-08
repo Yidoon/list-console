@@ -1,0 +1,24 @@
+{
+  "name": "list-console",
+  "version": "1.0.0",
+  "description": "List the console.log in the code when the branch is about to be merged",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yidoon/list-console.git"
+  },
+  "keywords": [
+    "git",
+    "console.log",
+    "list-console"
+  ],
+  "author": "Yidoon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yidoon/list-console/issues"
+  },
+  "homepage": "https://github.com/Yidoon/list-console#readme"
+}
